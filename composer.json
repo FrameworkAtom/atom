@@ -16,8 +16,10 @@
 		"frameworkatom/framework": "*"
 	},
 	"config": {
-		"optimize-autoloader": true
+		"optimize-autoloader": true,
+		"prefered-install": "dist",
+		"sort-packages": true
 	},
-	"minimum-stability": "dev",
+	"minimum-stability": "stable",
     "prefer-stable": true
 }
