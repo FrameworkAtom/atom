@@ -6,3 +6,5 @@ yarn-error.log
 
 # Atom specific
 /config/env.json
+/public/storage/
+/storage/
