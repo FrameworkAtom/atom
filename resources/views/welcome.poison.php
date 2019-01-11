@@ -54,7 +54,7 @@
     <h5>Framework version : {{ app()->version() }}</h5>
 
     <div class="links">
-        <a href="https://github.com/atom-framework/atom">Github</a>
+        <a href="https://github.com/FrameworkAtom/atom">Github</a>
         <a href="https://atomframework.github.io">Website</a>
     </div>
 </body>
