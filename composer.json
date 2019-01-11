@@ -1,6 +1,7 @@
 {
     "name": "frameworkatom/atom",
     "description": "The Atom Framework",
+	"version": "1.0.0",
 	"keywords": [
 		"framework",
 		"atom"
