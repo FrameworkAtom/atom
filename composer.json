@@ -1,5 +1,6 @@
 {
     "name": "frameworkatom/atom",
+	"type": "project",
     "description": "The Atom Framework",
 	"keywords": [
 		"framework",
@@ -20,6 +21,6 @@
 		"prefered-install": "dist",
 		"sort-packages": true
 	},
-	"minimum-stability": "stable",
+	"minimum-stability": "dev",
     "prefer-stable": true
 }
