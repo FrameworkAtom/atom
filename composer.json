@@ -1,0 +1,21 @@
+{
+    "name": "frameworkatom/atom",
+    "description": "The Atom Framework",
+	"keywords": [
+		"framework",
+		"atom"
+	],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+		"php": "^7.1.3",
+		"frameworkatom/framework": "*"
+	},
+	"config": {
+		"optimize-autoloader": true
+	}
+}

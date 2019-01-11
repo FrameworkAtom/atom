@@ -1,0 +1,9 @@
+vendor/
+node_modules/
+npm-debug.log
+yarn-error.log
+.idea/
+
+# Atom specific
+/config/env.json
+/public/storage
