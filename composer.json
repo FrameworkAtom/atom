@@ -21,6 +21,7 @@
     "require": {
 		"php": "^7.1.3",
 		"frameworkatom/framework": "*"
+		"frameworkatom/console": "*"
 	},
 	"config": {
 		"optimize-autoloader": true,
