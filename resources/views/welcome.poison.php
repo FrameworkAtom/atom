@@ -55,7 +55,7 @@
 
     <div class="links">
         <a href="https://github.com/FrameworkAtom/atom">Github</a>
-        <a href="https://atomframework.github.io">Website</a>
+        <a href="https://frameworkatom.github.io">Documentation</a>
     </div>
 </body>
 </html>
