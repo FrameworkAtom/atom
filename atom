@@ -1,0 +1,8 @@
+<?php
+
+require_once __DIR__ . '/vendor/autoload.php';
+
+$base_path = __DIR__;
+
+\Console\Commander::load($argv, $base_path);
+\Console\Commander::run();
