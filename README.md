@@ -1,4 +1,4 @@
 # atom
 A lightweight PHP framework
 
-[![](https://img.shields.io/packagist/dt/doctrine/orm.svg)](https://packagist.org/packages/frameworkatom/atom)
+[![Total Downloads](https://poser.pugx.org/phpunit/phpunit/downloads)](https://packagist.org/packages/phpunit/phpunit)
