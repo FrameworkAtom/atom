@@ -13,15 +13,15 @@
             "App\\": "app/"
         }
     },
-    "extra": {
+	"extra": {
         "branch-alias": {
             "dev-master": "1.0.0-dev"
         }
     },
     "require": {
 		"php": "^7.1.3",
-		"frameworkatom/framework": "*"
-		"frameworkatom/console": "*"
+		"frameworkatom/framework": "*",
+    	"frameworkatom/console": "*"
 	},
 	"config": {
 		"optimize-autoloader": true,
