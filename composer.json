@@ -2,7 +2,7 @@
     "name": "frameworkatom/atom",
 	"type": "project",
     "description": "The Atom Framework",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"keywords": [
 		"framework",
 		"atom"
@@ -15,7 +15,7 @@
     },
 	"extra": {
         "branch-alias": {
-            "dev-master": "1.0.0-dev"
+            "dev-master": "1.0.1-dev"
         }
     },
     "require": {
